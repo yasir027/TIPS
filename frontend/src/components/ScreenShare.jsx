@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import io from 'socket.io-client';
 
-const socket = io('http://192.168.127.117:3000'); // Replace with your backend URL
+const socket = io('http://192.168.1.16:3000'); // Replace with your backend URL
 
 const ScreenShare = () => {
     useEffect(() => {
