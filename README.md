@@ -1,13 +1,7 @@
-Here’s a complete and professional `README.md` file for your **TIPS (Touch Interactive Projection System)** GitHub repository. It explains the project clearly for recruiters, tech enthusiasts, and potential contributors:
-
----
 
 # 🖥️ TIPS – Touch Interactive Projection System
 
 > **TIPS** is a gesture-controlled, touch-interactive projection system that combines **computer vision**, **screen sharing**, and **infrared + fingertip tracking** to create a futuristic and intuitive digital interface.
-
-![TIPS Demo](https://your-demo-image-or-gif-link-if-available)
-
 ---
 
 ## 🧠 Project Idea
@@ -24,7 +18,7 @@ Whether it’s a presentation, a smart classroom, or an interactive kiosk — **
 
 ## 🏆 Achievements
 
-🥉 **2nd Runner-Up** at **Hackathon (SU Knowledge Hub)** – *Featured for innovation in real-time interaction systems.*
+🥉 **Winner** of **Innovators hub** – *Featured for innovation in real-time interaction systems.*
 
 ---
 
@@ -164,13 +158,3 @@ numpy==1.26.4
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 🙋‍♂️ Made With ❤️ By
-
-**Your Name**
-2nd Runner-Up – SU Knowledge Hub Hackathon
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://your-portfolio.com)
-
----
-
-Would you like help creating a GIF demo, README badge icons, or a hosted web demo?
