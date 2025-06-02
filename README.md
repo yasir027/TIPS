@@ -138,12 +138,6 @@ numpy==1.26.4
 
 ---
 
-## 📸 Demo (Optional)
-
-> If you have a YouTube demo or GIF, embed it here!
-
----
-
 ## 🙌 Future Scope
 
 * Click-and-drag gestures
